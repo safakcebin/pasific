@@ -1,0 +1,15 @@
+C:\Users\safak\Desktop\pasificv3\pasific\pasific.Business\bin\Debug\pasific.Business.dll.config
+C:\Users\safak\Desktop\pasificv3\pasific\pasific.Business\bin\Debug\pasific.Business.dll
+C:\Users\safak\Desktop\pasificv3\pasific\pasific.Business\bin\Debug\pasific.Business.pdb
+C:\Users\safak\Desktop\pasificv3\pasific\pasific.Business\bin\Debug\EntityFramework.dll
+C:\Users\safak\Desktop\pasificv3\pasific\pasific.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\safak\Desktop\pasificv3\pasific\pasific.Business\bin\Debug\pasific.DataAccess.dll
+C:\Users\safak\Desktop\pasificv3\pasific\pasific.Business\bin\Debug\pasific.DataAccess.pdb
+C:\Users\safak\Desktop\pasificv3\pasific\pasific.Business\bin\Debug\pasific.DataAccess.dll.config
+C:\Users\safak\Desktop\pasificv3\pasific\pasific.Business\bin\Debug\EntityFramework.xml
+C:\Users\safak\Desktop\pasificv3\pasific\pasific.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\safak\Desktop\pasificv3\pasific\pasific.Business\obj\Debug\pasific.Business.csproj.AssemblyReference.cache
+C:\Users\safak\Desktop\pasificv3\pasific\pasific.Business\obj\Debug\pasific.Business.csproj.CoreCompileInputs.cache
+C:\Users\safak\Desktop\pasificv3\pasific\pasific.Business\obj\Debug\pasific.Business.csproj.CopyComplete
+C:\Users\safak\Desktop\pasificv3\pasific\pasific.Business\obj\Debug\pasific.Business.dll
+C:\Users\safak\Desktop\pasificv3\pasific\pasific.Business\obj\Debug\pasific.Business.pdb
